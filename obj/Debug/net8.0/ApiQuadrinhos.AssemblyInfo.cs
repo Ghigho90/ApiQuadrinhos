@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiQuadrinhos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7eaefbea0de88b7aacb886711d5c0fe9a54f118")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiQuadrinhos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiQuadrinhos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

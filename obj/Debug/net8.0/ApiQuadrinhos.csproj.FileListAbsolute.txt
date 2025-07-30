@@ -108,3 +108,4 @@ C:\Users\user\RiderProjects\ApiQuadrinhos\ApiQuadrinhos\obj\Debug\net8.0\refint\
 C:\Users\user\RiderProjects\ApiQuadrinhos\ApiQuadrinhos\obj\Debug\net8.0\ApiQuadrinhos.pdb
 C:\Users\user\RiderProjects\ApiQuadrinhos\ApiQuadrinhos\obj\Debug\net8.0\ApiQuadrinhos.genruntimeconfig.cache
 C:\Users\user\RiderProjects\ApiQuadrinhos\ApiQuadrinhos\obj\Debug\net8.0\ref\ApiQuadrinhos.dll
+C:\Users\user\RiderProjects\ApiQuadrinhos\ApiQuadrinhos\obj\Debug\net8.0\ApiQuadrinhos.sourcelink.json

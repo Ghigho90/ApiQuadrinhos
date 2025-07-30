@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ApiQuadrinhos.Models;
 
-public class Pagina
+public class PaginaModel
 {
     [Key]
     public Guid Id { get; set; }

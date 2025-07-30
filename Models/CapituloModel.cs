@@ -14,6 +14,6 @@ public class CapituloModel
     [ForeignKey("QuadrinhoId")]
     public virtual QuadrinhoModel Quadrinho { get; set; }
 
-    public virtual ICollection<Pagina> Paginas { get; set; } = new List<Pagina>();
+    public virtual ICollection<PaginaModel> Paginas { get; set; } = new List<PaginaModel>();
 
 }
